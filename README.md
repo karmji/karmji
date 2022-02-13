@@ -4,7 +4,7 @@ My name is Benjamin Stilphen, I am a junior studying computer science at the Uni
 
 During my time here at UCONN I have been developing my skills as a programmer through courses such as systems programming, algorithms and complexity, and data structures and algorithms to name a few. 
 
-All of which have helped me in my goal of one day becoming a great software engineer.
+All of which have helped me get closer to my goal of becoming a great software engineer.
 
 I am currently seeking out a summer internship for 2022.
 
