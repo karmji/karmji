@@ -1,6 +1,6 @@
 👋 Hello everyone! 👋
 
-My name is Benjamin Stilphen, I am a backend Java developer for Buyer's Edge Platform.
+My name is Benjamin Stilphen and I am a backend Java developer for Buyer's Edge Platform.
 
 I enjoy learning new coding practices and increasing my programming knowledge base.
 
